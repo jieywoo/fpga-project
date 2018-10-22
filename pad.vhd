@@ -1,6 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: UPMC
 -- Engineer: Julien
+--           Jieyeon Woo, Olivia Messina
 -- 
 -- Gestion de la Raquette
 --
@@ -13,7 +14,7 @@ use IEEE.STD_LOGIC_UNSIGNED.ALL;
 entity pad is
     Port ( 	clk25 : in  STD_LOGIC;							-- Horloge
 				reset: in std_logic;								-- Reset Asynchrone
-				taille: in std_logic;							-- Paramètre Taille
+				taille: in std_logic;							-- ParamÃ¨tre Taille
 				freeze: in std_logic;							-- Commande Mode Pause
 				rot_left: in std_logic;							-- Commande Deplacement Gauche
 				rot_right: in std_logic;						-- Commande Deplacement Droite
