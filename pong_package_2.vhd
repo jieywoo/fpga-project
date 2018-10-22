@@ -1,5 +1,8 @@
 --	Package File Template
 --
+--  
+-- Engineer: Jieyeon Woo, Olivia Messina
+--
 --	Purpose: This package defines supplemental types, subtypes, 
 --		 constants, and functions 
 
