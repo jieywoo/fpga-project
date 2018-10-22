@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Jieyeon Woo, Olivia Messina
 -- 
 -- Create Date:    14:29:20 02/08/2013 
 -- Design Name: 
