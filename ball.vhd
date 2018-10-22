@@ -1,6 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Company: UPMC
 -- Engineer: Julien Denoulet
+--           Jieyeon Woo, Olivia Messina
 -- 
 --	Gestion de la Balle
 --
